@@ -1,6 +1,6 @@
 # TaskList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+A project to put into practice my knowledge about Angular, Typescript, Git and Github
 
 ## Development server
 
